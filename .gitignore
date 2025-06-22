@@ -1,0 +1,30 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+/Logs/
+/UserSettings/
+
+# User-specific
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Asset meta data should be committed
+!/[Aa]ssets/**/*.meta
+
+# VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
